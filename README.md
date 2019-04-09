@@ -12,7 +12,7 @@ The countries service should expose the data to external services, and allow for
 | name        |   Country Name    | Germany |
 
 ### Data
-Data is located in `data/countries.json`
+Data is located in `data/countries.json`, but may move to a DB.
 
 ### Use Cases:
 - [ ] get an alpha3 based on alpha2
