@@ -1,0 +1,22 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+environments
+.DS_Store
+
+# Config
+app*yaml
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Secrets
+secrets
+app*yaml
+
+dump.rdb
